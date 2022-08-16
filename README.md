@@ -2,4 +2,4 @@
 
 
 ## Languages 
-(/) React (typescript)
+React (typescript)
